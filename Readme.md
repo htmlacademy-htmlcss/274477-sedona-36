@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Руслан Чаус](https://up.htmlacademy.ru/htmlcss/36/user/274477).
-* Наставник: `Неизвестно`.
+* Наставник: [Ярослав Шевцов] (https://htmlacademy.ru/profile/redx).
 
 ---
 
