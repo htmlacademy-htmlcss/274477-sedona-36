@@ -66,8 +66,7 @@
     <section class="catalog-products">
       <h2 class="visually-hidden">Список товаров с фильтрами</h2>
       <form class="catalog-filter" action="http://echo.htmlacademy.ru/" method="get">
-        <button class="button" type="submit"> Применить</button>
-        <fieldset class="catalog-filter-group">
+          <fieldset class="catalog-filter-group">
           <legend class="catalog-filter-title">Инфраструктура:</legend>
           <label class="control">
             <input class="control-input" type="checkbox" name="is-pool" checked>
@@ -107,10 +106,9 @@
       </form>
     </section>
     <section class="search-results">
-      <form  class="search-results" action="http://echo.htmlacademy.ru/" method="get">
-      <p class="search results"> Найденно гостиниц</p>
-      <b class="search results">38</b>
-      <select class="select-control" aria-label="Сортировка">
+     <div class="search-results-filters">
+      <p class="search results"> Найденно гостиниц 38</p>
+    <select class="select-control" aria-label="Сортировка">
         <option value="cheap"> Сначала дешевые</option>
         <option value="popular">Сначала популярные</option>
         <option value="expensive">Сначала дорогие</option>
@@ -124,7 +122,7 @@
       <a class="button button-light" href="#">
         <span class="visually-hidden"> Показать по одному</span>
       </a>
-    </form>
+     </div>
       <div class="product-card">
         <a class="product-card-link" href="product.html">
           <img class="product-card-img" src="#" alt="Amara Resort & Spa">
