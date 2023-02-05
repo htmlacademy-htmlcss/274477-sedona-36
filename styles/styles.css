@@ -1,7 +1,7 @@
 @font-face {
   font-family: "PT Sans";
   font-style: normal;
-  font-weight:400;
+  font-weight: 400;
   src: url("../fonts/pt-sans-regular.woff2") format("woff2");
   font-display: swap;
 }
@@ -225,7 +225,7 @@ body {
   background-image: url("../images/catalog-filter-background.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
-  background-color:#82B3D3;
+  background-color: #82B3D3;
 }
 
 .inner-header-title {
